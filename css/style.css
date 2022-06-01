@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Helvetica;
+    background-color: #fafafa;
+}
+
+#main-container {
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+}
+
+#banner-container, #form-container {
+    flex: ;
+}
